@@ -22,6 +22,8 @@ contact us and we are happy to help!
 In the following sections, we assume that annotations.csv is extended
 by an additional column named "text" that contains the discharge summary.
 
+If you want to use the same word-embeddings we use, please download them here: https://drive.google.com/open?id=1v_89KD993yXhYhsQQNZiwwFoy3aUD9Oq
+
 ## Code
 
 Here is how to run the code for baselines and deep learning components. 
